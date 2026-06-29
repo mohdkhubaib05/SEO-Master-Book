@@ -1,0 +1,422 @@
+# 📖 Chapter 10 – Image SEO
+
+---
+
+# 🎯 Chapter Objective
+
+Is chapter me hum Image SEO ko detail me samjhenge. Aap seekhenge ki images ko SEO-friendly kaise banaya jata hai, image file names, ALT Text, image compression, modern image formats aur Google Image Search ke liye optimization kaise ki jati hai.
+
+---
+
+# 10.1 What is Image SEO?
+
+**Image SEO** ek process hai jisme website ki images ko optimize kiya jata hai taaki search engines unhe easily understand kar sake aur users ko fast loading experience mile.
+
+Simple Words:
+
+> **Image SEO = Images ko Google aur Users dono ke liye optimize karna.**
+
+---
+
+# 10.2 Why Image SEO is Important?
+
+Images sirf design ke liye nahi hoti.
+
+Proper optimization se:
+
+* Website Fast Load Hoti Hai
+* Google Images me Ranking Milti Hai
+* Better User Experience
+* Better Accessibility
+* Better Core Web Vitals
+* More Organic Traffic
+
+---
+
+# 10.3 How Google Understands Images?
+
+Google image ko human ki tarah directly nahi samajhta.
+
+Google mainly ye signals use karta hai:
+
+* File Name
+* ALT Text
+* Surrounding Content
+* Captions
+* Structured Data
+* Page Context
+
+Isliye image optimization bahut important hai.
+
+---
+
+# 10.4 Image File Name
+
+Bad Example:
+
+```text
+IMG_20250629.jpg
+```
+
+Good Example:
+
+```text
+fire-extinguisher-mumbai.jpg
+```
+
+Rules:
+
+* Meaningful Name
+* Lowercase Letters
+* Hyphens (-)
+* Keyword Included
+* No Spaces
+* No Random Numbers
+
+---
+
+# 10.5 ALT Text
+
+ALT (Alternative Text) image ka description hota hai.
+
+Google aur Screen Readers isi description ko use karte hain.
+
+Example:
+
+```text
+ABC Fire Extinguisher installed in a commercial office in Mumbai.
+```
+
+Benefits:
+
+* Better SEO
+* Accessibility
+* Image Search Ranking
+
+---
+
+# 10.6 Image Title
+
+Image Title user ko hover karne par additional information de sakta hai.
+
+Example:
+
+```text
+ABC Fire Extinguisher
+```
+
+Title optional hai, lekin ALT Text mandatory hona chahiye.
+
+---
+
+# 10.7 Image Caption
+
+Caption image ke niche dikhne wala text hota hai.
+
+Example:
+
+> Installation of CO₂ Fire Extinguisher at a corporate office in Mumbai.
+
+Caption user engagement improve karta hai.
+
+---
+
+# 10.8 Image Size
+
+Large images website ko slow bana deti hain.
+
+Recommended:
+
+* Compress Images
+* Resize Before Upload
+* Avoid Oversized Dimensions
+
+Example:
+
+❌ 8 MB Image
+
+↓
+
+✅ 250 KB Optimized Image
+
+---
+
+# 10.9 Image Compression
+
+Compression se image ka size kam hota hai bina noticeable quality loss ke.
+
+Popular Tools:
+
+* TinyPNG
+* Squoosh
+* ImageOptim
+
+Benefits:
+
+* Faster Loading
+* Better SEO
+* Lower Bandwidth Usage
+
+---
+
+# 10.10 Image Formats
+
+## JPEG (.jpg)
+
+Best for:
+
+* Photos
+* Product Images
+
+---
+
+## PNG (.png)
+
+Best for:
+
+* Logos
+* Transparent Background
+
+---
+
+## WebP ⭐⭐⭐⭐⭐
+
+Modern image format.
+
+Benefits:
+
+* Smaller File Size
+* Better Quality
+* Faster Loading
+
+Recommended for most websites.
+
+---
+
+## SVG
+
+Best for:
+
+* Icons
+* Logos
+* Simple Graphics
+
+---
+
+# 10.11 Responsive Images
+
+Different devices ke liye different image sizes use karo.
+
+Benefits:
+
+* Faster Mobile Loading
+* Better Performance
+* Better User Experience
+
+---
+
+# 10.12 Lazy Loading
+
+Lazy Loading ka matlab hai images tab load hongi jab user un tak scroll karega.
+
+Benefits:
+
+* Faster Initial Load
+* Better Core Web Vitals
+* Lower Data Usage
+
+---
+
+# 10.13 Image Sitemap
+
+Agar website me bahut images hain to Image Sitemap banana useful hota hai.
+
+Benefits:
+
+* Better Image Crawling
+* Better Image Indexing
+* Faster Discovery
+
+---
+
+# 10.14 Structured Data for Images
+
+Schema Markup image ko additional context deta hai.
+
+Examples:
+
+* Product Image
+* Article Image
+* Organization Logo
+
+Benefits:
+
+* Rich Results
+* Better Search Visibility
+
+---
+
+# 10.15 Original Images vs Stock Images
+
+### Original Images
+
+* Better Trust
+* Unique Content
+* Better Branding
+
+### Stock Images
+
+* Easy to Use
+* Generic Appearance
+* Less Unique
+
+Recommendation:
+
+Business website ke liye maximum original images use karo.
+
+---
+
+# 10.16 SafePro Image SEO Strategy
+
+Product Images:
+
+```text
+co2-fire-extinguisher.jpg
+
+abc-fire-extinguisher.jpg
+
+fire-alarm-panel.jpg
+```
+
+ALT Text Example:
+
+```text
+CO₂ Fire Extinguisher supplied and installed by SafePro Fire Services in Mumbai.
+```
+
+Gallery:
+
+* Real Installation Photos
+* Office Photos
+* Team Photos
+* Project Images
+* Customer Site Photos
+
+---
+
+# 10.17 Common Image SEO Mistakes
+
+❌ Large Image Size
+
+❌ Missing ALT Text
+
+❌ Random File Names
+
+❌ Uploading Original Camera Files
+
+❌ No Compression
+
+❌ Using Wrong Format
+
+❌ Duplicate Images
+
+❌ Missing Responsive Images
+
+---
+
+# 10.18 Best Practices
+
+✅ Use WebP Images
+
+✅ Compress Images Before Upload
+
+✅ Add Meaningful ALT Text
+
+✅ Use SEO-Friendly File Names
+
+✅ Add Image Captions (Where Relevant)
+
+✅ Use Lazy Loading
+
+✅ Use Responsive Images
+
+✅ Prefer Original Images
+
+---
+
+# Chapter Summary
+
+Is chapter me humne seekha:
+
+* Image SEO kya hota hai.
+* File Name Optimization.
+* ALT Text.
+* Image Titles.
+* Image Captions.
+* Image Compression.
+* Image Formats.
+* Lazy Loading.
+* Responsive Images.
+* Image Sitemap.
+* Structured Data.
+* SafePro Image SEO Strategy.
+
+---
+
+# Practice Questions
+
+### Basic
+
+1. Image SEO kya hota hai?
+
+2. ALT Text kya hota hai?
+
+3. WebP format kyun recommended hai?
+
+---
+
+### Intermediate
+
+4. Image Compression kyun important hai?
+
+5. Lazy Loading kya hota hai?
+
+6. Responsive Images kya hoti hain?
+
+---
+
+### Advanced
+
+7. SafePro ke product images ke liye SEO strategy banao.
+
+8. JPEG, PNG, WebP aur SVG me difference explain karo.
+
+9. Image Sitemap kya hota hai aur kab use karna chahiye?
+
+10. Image SEO ke 10 best practices likho.
+
+---
+
+# Chapter Checklist
+
+✅ Image SEO ka concept clear hai.
+
+✅ ALT Text samajh liya.
+
+✅ File Name Optimization clear hai.
+
+✅ Image Compression aur Formats samajh liye.
+
+✅ Lazy Loading aur Responsive Images clear hain.
+
+✅ SafePro ke liye Image SEO strategy ready hai.
+
+---
+
+# Key Takeaways
+
+* Images bhi SEO ka important part hain.
+* Proper File Names aur ALT Text Google ko image samajhne me help karte hain.
+* WebP format aur image compression website speed improve karte hain.
+* Original images brand trust aur uniqueness increase karti hain.
+* Image SEO se Google Image Search aur overall website performance dono improve hote hain.

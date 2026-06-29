@@ -1,0 +1,394 @@
+# 📖 Chapter 06 – Off-Page SEO
+
+---
+
+# 🎯 Chapter Objective
+
+Is chapter me hum Off-Page SEO ko detail me samjhenge. Aap seekhenge ki website ke bahar ki jane wali SEO activities kya hoti hain, backlinks kaise kaam karte hain, Domain Authority kya hoti hai, link building kaise ki jati hai aur Google website ki authority kaise evaluate karta hai.
+
+---
+
+# 6.1 What is Off-Page SEO?
+
+**Off-Page SEO** website ke bahar ki jane wali optimization process hai jiska objective website ki authority, trust aur reputation ko improve karna hota hai.
+
+Simple Words:
+
+> **Off-Page SEO = Website ke bahar ki jane wali activities jo Google ko batati hain ki aapki website trustworthy aur valuable hai.**
+
+Agar On-Page SEO website ka content improve karta hai, to Off-Page SEO website ki reputation build karta hai.
+
+---
+
+# 6.2 Why is Off-Page SEO Important?
+
+Google sirf content nahi dekhta.
+
+Wo ye bhi dekhta hai ki:
+
+* Kitni websites aapko recommend kar rahi hain.
+* Aapki brand kitni trusted hai.
+* Log aapki website ke baare me kya bol rahe hain.
+
+Benefits:
+
+* Better Google Rankings
+* Higher Domain Authority
+* More Referral Traffic
+* Better Brand Trust
+* Faster Indexing
+* Long-Term SEO Growth
+
+---
+
+# 6.3 On-Page SEO vs Off-Page SEO
+
+| On-Page SEO                   | Off-Page SEO                  |
+| ----------------------------- | ----------------------------- |
+| Website ke andar optimization | Website ke bahar optimization |
+| Content Improve karta hai     | Authority Improve karta hai   |
+| Keywords Optimize karta hai   | Backlinks Build karta hai     |
+| Technical Changes             | Reputation Building           |
+
+Dono equally important hain.
+
+---
+
+# 6.4 What is a Backlink?
+
+**Backlink** ek link hota hai jo kisi dusri website se aapki website ki taraf aata hai.
+
+Example:
+
+```text id="o5f0jx"
+Industry Blog
+
+↓
+
+Links to
+
+↓
+
+SafePro Fire Services
+```
+
+Google ise ek recommendation ke roop me dekhta hai.
+
+Jitne quality backlinks honge, utni authority improve hogi.
+
+---
+
+# 6.5 Types of Backlinks
+
+## 1. DoFollow Backlinks
+
+Google authority pass karta hai.
+
+SEO ke liye sabse valuable.
+
+---
+
+## 2. NoFollow Backlinks
+
+Authority pass nahi karte.
+
+Lekin traffic aur brand visibility ke liye useful hote hain.
+
+---
+
+# 6.6 High Quality vs Low Quality Backlinks
+
+### High Quality
+
+* Relevant Website
+* Trusted Website
+* High Authority
+* Natural Link
+
+Examples:
+
+* Government Websites
+* Educational Websites
+* Industry Blogs
+* News Websites
+
+---
+
+### Low Quality
+
+* Spam Websites
+* Irrelevant Directories
+* Link Farms
+* Paid Spam Links
+
+Google spammy backlinks ko ignore ya penalize kar sakta hai.
+
+---
+
+# 6.7 Domain Authority (DA)
+
+**Domain Authority (DA)** ek score hai jo estimate karta hai ki website search results me kitni strong compete kar sakti hai.
+
+Range:
+
+```text id="2eqv8r"
+1 → New Website
+
+100 → Extremely Strong Website
+```
+
+Higher DA generally better authority ko indicate karta hai.
+
+> Note: DA Google ka official metric nahi hai, lekin SEO industry me widely use hota hai.
+
+---
+
+# 6.8 Page Authority (PA)
+
+Page Authority kisi specific webpage ki strength ko indicate karta hai.
+
+Example:
+
+Homepage ki PA aur Blog Page ki PA alag ho sakti hai.
+
+---
+
+# 6.9 Link Building
+
+**Link Building** ka matlab quality backlinks earn karna hai.
+
+Common Methods:
+
+* Guest Posting
+* Business Directories
+* Industry Listings
+* Press Releases
+* Resource Pages
+* Partnerships
+* High-Quality Content
+
+Goal:
+
+Natural backlinks earn karna.
+
+---
+
+# 6.10 Business Directory Submission
+
+Business ko trusted directories me list karna.
+
+Examples:
+
+* Google Business Profile
+* IndiaMART
+* TradeIndia
+* Justdial
+* Sulekha
+* ExportersIndia
+* Yellow Pages
+
+Benefits:
+
+* Local SEO Improve Hota Hai
+* Brand Visibility Increase Hoti Hai
+* Referral Traffic Milta Hai
+
+---
+
+# 6.11 Social Signals
+
+Google directly social media likes ko ranking factor nahi maanta, lekin social media se:
+
+* Brand Awareness
+* Website Traffic
+* Content Reach
+* Natural Backlinks
+
+mil sakte hain.
+
+Platforms:
+
+* LinkedIn
+* Facebook
+* Instagram
+* X (Twitter)
+* YouTube
+
+---
+
+# 6.12 Brand Mentions
+
+Agar koi website aapki company ka naam mention karti hai, chahe link na bhi de, to usse brand authority improve ho sakti hai.
+
+Example:
+
+> "SafePro Fire Services is one of the leading fire safety companies in Mumbai."
+
+---
+
+# 6.13 Guest Posting
+
+Guest Posting me aap kisi dusri website ke liye article likhte hain aur us article me apni website ka backlink include karte hain.
+
+Benefits:
+
+* High Quality Backlinks
+* Brand Exposure
+* Referral Traffic
+* Authority Build Hoti Hai
+
+---
+
+# 6.14 Broken Link Building
+
+Kisi website par broken link identify karo.
+
+Uske owner ko inform karo.
+
+Apna relevant page suggest karo.
+
+Agar wo replace karta hai to quality backlink mil sakta hai.
+
+---
+
+# 6.15 SafePro Off-Page SEO Strategy
+
+Business Listings:
+
+* Google Business Profile
+* IndiaMART
+* TradeIndia
+* ExportersIndia
+* Justdial
+
+Content Marketing:
+
+* Fire Safety Blogs
+* Case Studies
+* Installation Guides
+
+Social Media:
+
+* LinkedIn
+* Facebook
+* Instagram
+* YouTube
+
+Industry Networking:
+
+* Fire Safety Associations
+* Construction Companies
+* Architects
+* Facility Management Companies
+
+---
+
+# 6.16 Common Off-Page SEO Mistakes
+
+❌ Buying Backlinks
+
+❌ Spam Directory Submission
+
+❌ Link Exchange Abuse
+
+❌ Irrelevant Backlinks
+
+❌ Too Many Low Quality Links
+
+❌ Ignoring Brand Reputation
+
+---
+
+# 6.17 Best Practices
+
+✅ Earn Natural Backlinks
+
+✅ Focus on Quality over Quantity
+
+✅ Build Industry Relationships
+
+✅ Publish Valuable Content
+
+✅ Maintain Google Business Profile
+
+✅ Encourage Customer Reviews
+
+✅ Share Content on Social Media
+
+---
+
+# Chapter Summary
+
+Is chapter me humne seekha:
+
+* Off-Page SEO kya hota hai.
+* Backlinks kya hote hain.
+* DoFollow aur NoFollow Links.
+* High Quality Backlinks.
+* Domain Authority.
+* Page Authority.
+* Link Building.
+* Business Directory Submission.
+* Guest Posting.
+* Social Signals.
+* SafePro ki Off-Page SEO Strategy.
+
+---
+
+# Practice Questions
+
+### Basic
+
+1. Off-Page SEO kya hota hai?
+
+2. Backlink kya hota hai?
+
+3. DoFollow aur NoFollow Link me difference batao.
+
+---
+
+### Intermediate
+
+4. Domain Authority kya hoti hai?
+
+5. Link Building kya hota hai?
+
+6. Business Directories SEO me kaise help karti hain?
+
+---
+
+### Advanced
+
+7. SafePro Fire Services ke liye complete Off-Page SEO Strategy banao.
+
+8. 10 High Quality Backlink Sources identify karo.
+
+9. Guest Posting Strategy explain karo.
+
+10. Quality aur Quantity backlinks me kaunsa zyada important hai aur kyun?
+
+---
+
+# Chapter Checklist
+
+✅ Off-Page SEO ka concept clear hai.
+
+✅ Backlinks samajh liye.
+
+✅ Link Building process clear hai.
+
+✅ Domain Authority aur Page Authority ka difference samajh liya.
+
+✅ Business Directory Submission ka role clear hai.
+
+✅ SafePro ke liye practical Off-Page SEO strategy samajh li.
+
+---
+
+# Key Takeaways
+
+* Off-Page SEO website ki reputation aur authority build karta hai.
+* High-quality backlinks low-quality backlinks se kahin zyada valuable hote hain.
+* Natural link building long-term SEO ke liye best strategy hai.
+* Business listings aur customer reviews Local SEO ko strong banate hain.
+* Off-Page SEO ek continuous process hai jisme trust aur authority gradually build hoti hai.

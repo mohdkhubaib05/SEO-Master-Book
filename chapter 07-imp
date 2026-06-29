@@ -1,0 +1,493 @@
+# 📖 Chapter 07 – Technical SEO
+
+---
+
+# 🎯 Chapter Objective
+
+Is chapter me hum Technical SEO ko detail me samjhenge. Aap seekhenge ki Technical SEO kya hota hai, Google website ko kaise crawl aur index karta hai, website ki technical health improve kaise ki jati hai aur kaun-kaun se technical factors ranking ko affect karte hain.
+
+---
+
+# 7.1 What is Technical SEO?
+
+**Technical SEO** website ke backend aur technical configuration ko optimize karne ki process hai jisse search engines website ko easily crawl, index aur understand kar sake.
+
+Simple Words:
+
+> **Technical SEO = Website ko technically Google-friendly banana.**
+
+Agar website technically optimized nahi hai to Google content ko properly read nahi kar paayega.
+
+---
+
+# 7.2 Why Technical SEO is Important?
+
+Ek technically optimized website:
+
+* Fast Crawl Hoti Hai
+* Fast Index Hoti Hai
+* Better Ranking Paati Hai
+* Better User Experience Deti Hai
+* Mobile Friendly Hoti Hai
+* Secure Hoti Hai
+
+---
+
+# 7.3 Technical SEO Components
+
+Technical SEO me mainly ye components aate hain:
+
+* Crawling
+* Indexing
+* XML Sitemap
+* Robots.txt
+* HTTPS
+* Website Speed
+* Mobile Friendliness
+* Canonical URL
+* Structured Data
+* Core Web Vitals
+* 404 Errors
+* Redirects
+
+---
+
+# 7.4 Crawling
+
+Google ka crawler (Googlebot) website ke pages ko visit karta hai.
+
+Process:
+
+```text
+Googlebot
+
+↓
+
+Homepage
+
+↓
+
+Internal Links
+
+↓
+
+Other Pages
+
+↓
+
+Content Read
+```
+
+Agar pages properly linked nahi honge to Google unhe crawl nahi kar paayega.
+
+---
+
+# 7.5 Indexing
+
+Crawling ke baad Google page ko apni database me save karta hai.
+
+Is process ko **Indexing** kehte hain.
+
+Agar page index nahi hua hai to woh Google Search Results me nahi dikhega.
+
+---
+
+# 7.6 XML Sitemap
+
+**XML Sitemap** website ke important pages ki list hoti hai.
+
+Example:
+
+```text
+example.com/sitemap.xml
+```
+
+Benefits:
+
+* Faster Crawling
+* Faster Indexing
+* Easy Page Discovery
+
+Har website me sitemap hona chahiye.
+
+---
+
+# 7.7 Robots.txt
+
+Robots.txt Google ko batata hai ki website ke kaunse pages crawl karne hain aur kaunse nahi.
+
+Example:
+
+```text
+User-agent: *
+
+Disallow: /admin/
+
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
+```
+
+Use carefully.
+
+Galat configuration se important pages Google se hide ho sakte hain.
+
+---
+
+# 7.8 HTTPS (SSL Certificate)
+
+HTTPS secure website ko represent karta hai.
+
+Example:
+
+✅
+
+```text
+https://example.com
+```
+
+❌
+
+```text
+http://example.com
+```
+
+Benefits:
+
+* Better Security
+* User Trust
+* Google Ranking Signal
+
+---
+
+# 7.9 Mobile Friendliness
+
+Google Mobile-First Indexing use karta hai.
+
+Iska matlab:
+
+Google website ka mobile version pehle check karta hai.
+
+Checklist:
+
+* Responsive Design
+* Readable Fonts
+* Fast Loading
+* Touch Friendly Buttons
+* No Horizontal Scrolling
+
+---
+
+# 7.10 Website Speed
+
+Fast websites better ranking aur better user experience deti hain.
+
+Target:
+
+```text
+Website Load Time < 2 Seconds
+```
+
+Improve Speed:
+
+* Compress Images
+* WebP Images
+* Browser Caching
+* Lazy Loading
+* Minify CSS
+* Minify JavaScript
+* CDN
+
+---
+
+# 7.11 Core Web Vitals
+
+Google User Experience measure karne ke liye Core Web Vitals use karta hai.
+
+### 1. Largest Contentful Paint (LCP)
+
+Page ka main content kitni jaldi load hota hai.
+
+Target:
+
+```text
+Less than 2.5 Seconds
+```
+
+---
+
+### 2. Interaction to Next Paint (INP)
+
+User interaction kitni quickly respond karti hai.
+
+Target:
+
+```text
+Less than 200 ms
+```
+
+---
+
+### 3. Cumulative Layout Shift (CLS)
+
+Page load hone ke baad layout kitna stable rehta hai.
+
+Target:
+
+```text
+Less than 0.1
+```
+
+---
+
+# 7.12 Canonical URL
+
+Kabhi-kabhi same content multiple URLs par available hota hai.
+
+Canonical URL Google ko batata hai ki original page kaunsa hai.
+
+Benefits:
+
+* Duplicate Content Avoid
+* Better SEO
+
+---
+
+# 7.13 Structured Data (Schema Markup)
+
+Schema Markup Google ko page ka context samajhne me help karta hai.
+
+Examples:
+
+* Product Schema
+* Article Schema
+* Organization Schema
+* FAQ Schema
+* Local Business Schema
+
+Benefits:
+
+* Rich Results
+* Better Visibility
+* Higher CTR
+
+---
+
+# 7.14 404 Error
+
+404 Error tab aata hai jab page exist nahi karta.
+
+Example:
+
+```text
+example.com/old-page
+```
+
+↓
+
+404 Not Found
+
+Solution:
+
+* 301 Redirect
+* Broken Links Fix
+* Custom 404 Page
+
+---
+
+# 7.15 301 Redirect
+
+Permanent Redirect.
+
+Old URL
+
+↓
+
+New URL
+
+SEO Value Preserve Hoti Hai.
+
+Example:
+
+```text
+old-page
+
+↓
+
+new-page
+```
+
+---
+
+# 7.16 Broken Links
+
+Broken Links user experience aur SEO dono ko negatively affect karte hain.
+
+Regularly check karo:
+
+* Internal Links
+* External Links
+* Images
+* Downloads
+
+---
+
+# 7.17 Duplicate Content
+
+Same content multiple pages par nahi hona chahiye.
+
+Problems:
+
+* Ranking Issues
+* Indexing Confusion
+* Lower Authority
+
+Solution:
+
+* Unique Content
+* Canonical Tags
+
+---
+
+# 7.18 SafePro Technical SEO Checklist
+
+Website:
+
+✅ HTTPS
+
+✅ XML Sitemap
+
+✅ Robots.txt
+
+✅ Mobile Friendly
+
+✅ Fast Loading
+
+✅ Optimized Images
+
+✅ Internal Linking
+
+✅ Canonical URLs
+
+✅ Structured Data
+
+✅ Google Search Console
+
+---
+
+# 7.19 Common Technical SEO Mistakes
+
+❌ Slow Website
+
+❌ Missing Sitemap
+
+❌ Missing Robots.txt
+
+❌ HTTP Website
+
+❌ Duplicate Content
+
+❌ Broken Links
+
+❌ No Mobile Optimization
+
+❌ Missing Schema
+
+---
+
+# 7.20 Best Practices
+
+✅ Submit Sitemap to Google Search Console
+
+✅ Use HTTPS
+
+✅ Optimize Website Speed
+
+✅ Improve Core Web Vitals
+
+✅ Regular Technical Audit
+
+✅ Fix Broken Links
+
+✅ Compress Images
+
+✅ Use Structured Data
+
+---
+
+# Chapter Summary
+
+Is chapter me humne seekha:
+
+* Technical SEO kya hota hai.
+* Crawling aur Indexing.
+* XML Sitemap.
+* Robots.txt.
+* HTTPS.
+* Website Speed.
+* Mobile Friendliness.
+* Core Web Vitals.
+* Canonical URLs.
+* Structured Data.
+* 404 Errors.
+* 301 Redirects.
+
+---
+
+# Practice Questions
+
+### Basic
+
+1. Technical SEO kya hota hai?
+
+2. XML Sitemap kya hota hai?
+
+3. Robots.txt kya karta hai?
+
+4. HTTPS kyun important hai?
+
+---
+
+### Intermediate
+
+5. Crawling aur Indexing me difference batao.
+
+6. Canonical URL kya hota hai?
+
+7. Core Web Vitals kya hote hain?
+
+---
+
+### Advanced
+
+8. SafePro Fire Services ke liye complete Technical SEO checklist banao.
+
+9. Website slow hone ke 10 reasons batao.
+
+10. Technical SEO audit ka process explain karo.
+
+---
+
+# Chapter Checklist
+
+✅ Technical SEO samajh liya.
+
+✅ Crawling aur Indexing clear hai.
+
+✅ Sitemap aur Robots.txt samajh liya.
+
+✅ Website Speed optimization clear hai.
+
+✅ Core Web Vitals samajh liye.
+
+✅ Structured Data ka role samajh liya.
+
+---
+
+# Key Takeaways
+
+* Technical SEO website ki foundation hai.
+* Google tabhi achhe se rank karega jab website crawl aur index properly ho.
+* HTTPS, Sitemap, Robots.txt aur Core Web Vitals har modern website ke liye essential hain.
+* Fast, secure aur mobile-friendly websites better user experience aur better rankings deti hain.
+* Regular Technical SEO audits website ko healthy aur search-engine friendly banaye rakhte hain.

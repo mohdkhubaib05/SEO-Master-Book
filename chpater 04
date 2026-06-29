@@ -1,0 +1,466 @@
+# 📖 Chapter 04 – On-Page SEO
+
+---
+
+# 🎯 Chapter Objective
+
+Is chapter me hum On-Page SEO ko detail me samjhenge. Aap seekhenge ki website ke har page ko Google aur users dono ke liye optimize kaise kiya jata hai. Hum SEO Title, Meta Description, Headings, URLs, Keywords, Images, Internal Linking aur Content Optimization ke baare me practical examples ke saath discuss karenge.
+
+---
+
+# 4.1 What is On-Page SEO?
+
+**On-Page SEO** website ke andar ki jane wali optimization process hai jiska objective search engines ko page ka topic samjhana aur users ko best experience dena hota hai.
+
+Simple Words:
+
+> **On-Page SEO = Website ke har page ko Google aur Users dono ke liye optimize karna.**
+
+Ye SEO ka sabse important part hai kyunki isi se Google ko pata chalta hai ki page kis topic par hai.
+
+---
+
+# 4.2 Why is On-Page SEO Important?
+
+Agar website ka content achha hai lekin properly optimize nahi hai, to Google ko uska topic samajhne me problem ho sakti hai.
+
+Benefits:
+
+* Better Google Rankings
+* Better User Experience
+* Higher Click-Through Rate (CTR)
+* Easy Crawling & Indexing
+* More Organic Traffic
+* Better Conversion Rate
+
+---
+
+# 4.3 Elements of On-Page SEO
+
+Ek SEO-optimized page me generally ye elements hote hain:
+
+* SEO Title
+* Meta Description
+* URL
+* Headings (H1, H2, H3)
+* Focus Keyword
+* Content
+* Images
+* ALT Text
+* Internal Links
+* External Links
+* Schema Markup
+
+---
+
+# 4.4 SEO Title
+
+SEO Title woh title hota hai jo Google Search Results me dikhai deta hai.
+
+Example:
+
+```text id="4thp7u"
+Fire Extinguisher Dealer in Mumbai | SafePro Fire Services
+```
+
+### Best Practices
+
+* Length: 50–60 Characters
+* Focus Keyword Include Karo
+* Brand Name Add Karo
+* Attractive Banao
+
+---
+
+# 4.5 Meta Description
+
+Meta Description ek short summary hoti hai jo Google Search Results me title ke niche show hoti hai.
+
+Example:
+
+```text id="x2cr3q"
+Buy ISI Mark Fire Extinguishers in Mumbai. Installation, Refilling, AMC and Fire Safety Solutions by SafePro Fire Services.
+```
+
+### Best Practices
+
+* 150–160 Characters
+* Focus Keyword Include Karo
+* Call-to-Action Add Karo
+* Unique Description Likho
+
+---
+
+# 4.6 Heading Tags
+
+Headings content ko organize karne ke liye use hote hain.
+
+Structure:
+
+```text id="8drcb5"
+H1 → Main Heading
+
+H2 → Main Sections
+
+H3 → Sub Sections
+
+H4 → Additional Details
+```
+
+Example:
+
+```text id="lphxt7"
+H1 - Fire Extinguisher Dealer in Mumbai
+
+H2 - Types of Fire Extinguishers
+
+H2 - Why Choose SafePro?
+
+H3 - ABC Fire Extinguisher
+
+H3 - CO₂ Fire Extinguisher
+```
+
+### Rules
+
+* Sirf 1 H1 Use Karo.
+* Headings Logical Order me Rakho.
+* Keyword Naturally Use Karo.
+
+---
+
+# 4.7 URL Optimization
+
+Bad URL:
+
+```text id="tf2a0v"
+website.com/page?id=123
+```
+
+Good URL:
+
+```text id="mjlwmw"
+website.com/fire-extinguisher-mumbai
+```
+
+### Rules
+
+* Short
+* Readable
+* Keyword Included
+* Hyphens (-) Use Karo
+* Numbers Avoid Karo
+
+---
+
+# 4.8 Keyword Optimization
+
+Keyword page ka main topic define karta hai.
+
+Example:
+
+Focus Keyword:
+
+```text id="jlwm6v"
+Fire Extinguisher Mumbai
+```
+
+Keyword Placement:
+
+* SEO Title
+* URL
+* Meta Description
+* H1
+* First Paragraph
+* H2 Heading
+* Image ALT
+* Conclusion
+
+### Avoid
+
+❌ Keyword Stuffing
+
+Keyword naturally use karo.
+
+---
+
+# 4.9 Content Optimization
+
+Google quality content ko prefer karta hai.
+
+Good Content me hona chahiye:
+
+* Easy Language
+* Helpful Information
+* Proper Headings
+* Bullet Points
+* Tables
+* FAQs
+* Examples
+
+### Content Formula
+
+Problem
+
+↓
+
+Solution
+
+↓
+
+Explanation
+
+↓
+
+Example
+
+↓
+
+Call-to-Action
+
+---
+
+# 4.10 Image Optimization
+
+Image SEO bhi On-Page SEO ka important part hai.
+
+Bad:
+
+```text id="f5kklt"
+IMG001.jpg
+```
+
+Good:
+
+```text id="nqjlwm"
+abc-fire-extinguisher-mumbai.jpg
+```
+
+ALT Text:
+
+```text id="h6l2kz"
+ABC Fire Extinguisher Dealer in Mumbai
+```
+
+Benefits:
+
+* Better SEO
+* Image Search Traffic
+* Accessibility
+
+---
+
+# 4.11 Internal Linking
+
+Internal Linking website ke pages ko ek dusre se connect karta hai.
+
+Example:
+
+Blog:
+
+"ABC vs CO₂ Fire Extinguisher"
+
+↓
+
+Link to
+
+Fire Extinguisher Product Page
+
+Benefits:
+
+* Better Crawling
+* Better User Experience
+* More Page Views
+* Better SEO
+
+---
+
+# 4.12 External Linking
+
+External Linking trusted websites ko reference dene ke liye hota hai.
+
+Example:
+
+Government Fire Safety Guidelines
+
+↓
+
+Official Government Website
+
+Benefits:
+
+* Trust Improve Hota Hai
+* Better User Experience
+* Credibility Increase Hoti Hai
+
+---
+
+# 4.13 Content Readability
+
+Google user-friendly content ko prefer karta hai.
+
+Checklist:
+
+* Short Paragraphs
+* Simple Language
+* Bullet Points
+* Images
+* Tables
+* FAQs
+* Headings
+
+---
+
+# 4.14 SafePro On-Page SEO Example
+
+### SEO Title
+
+```text id="ixk2q0"
+Fire Extinguisher Dealer in Mumbai | SafePro Fire Services
+```
+
+### URL
+
+```text id="88nt9x"
+safeprofire.com/fire-extinguisher-mumbai
+```
+
+### Meta Description
+
+```text id="wzrmk0"
+Buy ISI Mark Fire Extinguishers in Mumbai. Installation, Refilling, AMC & Fire Safety Solutions by SafePro Fire Services.
+```
+
+### H1
+
+```text id="r0crfw"
+Fire Extinguisher Dealer in Mumbai
+```
+
+### Focus Keyword
+
+```text id="jl6pj7"
+Fire Extinguisher Mumbai
+```
+
+---
+
+# 4.15 Common On-Page SEO Mistakes
+
+❌ Missing SEO Title
+
+❌ Duplicate Meta Description
+
+❌ Multiple H1 Tags
+
+❌ Keyword Stuffing
+
+❌ Poor URL Structure
+
+❌ Missing Image ALT
+
+❌ No Internal Linking
+
+❌ Thin Content
+
+❌ Duplicate Content
+
+---
+
+# 4.16 Best Practices
+
+✅ Write for Users First
+
+✅ Use Keywords Naturally
+
+✅ Optimize Every Image
+
+✅ Create Unique Meta Descriptions
+
+✅ Add Internal Links
+
+✅ Use Proper Headings
+
+✅ Keep Content Updated
+
+✅ Improve Page Readability
+
+---
+
+# Chapter Summary
+
+Is chapter me humne seekha:
+
+* On-Page SEO kya hota hai.
+* SEO Title aur Meta Description.
+* Heading Tags.
+* URL Optimization.
+* Keyword Placement.
+* Content Optimization.
+* Image SEO.
+* Internal Linking.
+* External Linking.
+* Readability.
+* SafePro ka practical example.
+
+---
+
+# Practice Questions
+
+### Basic
+
+1. On-Page SEO kya hota hai?
+
+2. SEO Title kya hota hai?
+
+3. Meta Description kya hoti hai?
+
+4. H1 Tag ka purpose kya hai?
+
+---
+
+### Intermediate
+
+5. Keyword Placement kaise karte hain?
+
+6. Internal Linking SEO me kaise help karta hai?
+
+7. Image ALT Text kyun important hai?
+
+---
+
+### Advanced
+
+8. SafePro Fire Services ke Product Page ka complete On-Page SEO structure design karo.
+
+9. Ek SEO-friendly page ka Title, URL, Meta Description aur H1 likho.
+
+10. On-Page SEO ke 10 important factors explain karo.
+
+---
+
+# Chapter Checklist
+
+✅ On-Page SEO ka concept clear hai.
+
+✅ SEO Title aur Meta Description samajh liya.
+
+✅ Heading Structure clear hai.
+
+✅ Keyword Placement samajh liya.
+
+✅ Image SEO clear hai.
+
+✅ Internal aur External Linking samajh liya.
+
+✅ Content Optimization ka importance samajh liya.
+
+---
+
+# Key Takeaways
+
+* On-Page SEO website ke har page ko optimize karne ki process hai.
+* Quality Content + Proper Keyword Placement + Good User Experience = Better Rankings.
+* SEO Title, Meta Description aur H1 sabse important On-Page elements hain.
+* Images, URLs aur Internal Links ko ignore nahi karna chahiye.
+* Google users ke liye valuable aur well-structured content ko reward karta hai.

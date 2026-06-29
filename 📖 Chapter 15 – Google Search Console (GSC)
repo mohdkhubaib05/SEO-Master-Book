@@ -1,0 +1,390 @@
+# 📖 Chapter 15 – Google Search Console (GSC)
+
+---
+
+# 🎯 Chapter Objective
+
+Is chapter me hum Google Search Console (GSC) ko detail me samjhenge. Aap seekhenge ki Google Search Console kya hota hai, website ko verify kaise karte hain, indexing kaise monitor karte hain, performance reports kaise analyze karte hain aur SEO improve karne ke liye GSC ka practical use kaise kiya jata hai.
+
+---
+
+# 15.1 What is Google Search Console?
+
+**Google Search Console (GSC)** Google ka free tool hai jo website owners ko website ki search performance monitor aur improve karne me help karta hai.
+
+Simple Words:
+
+> **Google Search Console = Google aur aapki website ke beech communication tool.**
+
+Ye batata hai:
+
+* Website Google me kaise perform kar rahi hai.
+* Kaunse pages index hue hain.
+* Kaunse keywords par impressions aur clicks aa rahe hain.
+* Kaunse technical issues hain.
+
+---
+
+# 15.2 Why Google Search Console is Important?
+
+Har SEO professional ke liye GSC mandatory tool hai.
+
+Benefits:
+
+* Website Performance Monitor
+* Indexing Status Check
+* Keyword Analysis
+* Technical SEO Issues
+* Sitemap Submission
+* Mobile Usability Insights
+* Search Performance Tracking
+
+---
+
+# 15.3 How Google Search Console Works?
+
+Website
+
+↓
+
+Google Crawls
+
+↓
+
+Google Indexes
+
+↓
+
+Search Console Reports
+
+↓
+
+SEO Improvements
+
+GSC Google ke data par based reports provide karta hai.
+
+---
+
+# 15.4 Property Types
+
+Google Search Console me do types ki properties hoti hain.
+
+## Domain Property
+
+Pure domain ko cover karti hai.
+
+Example:
+
+```text id="7r6v0h"
+safeprofire.com
+```
+
+Includes:
+
+* www
+* non-www
+* http
+* https
+* Subdomains
+
+Recommended for most websites.
+
+---
+
+## URL Prefix Property
+
+Specific URL version ko track karti hai.
+
+Example:
+
+```text id="8q4s6m"
+https://www.safeprofire.com
+```
+
+---
+
+# 15.5 Website Verification
+
+Website verify karne ke common methods:
+
+* DNS Record
+* HTML File Upload
+* HTML Meta Tag
+* Google Analytics
+* Google Tag Manager
+
+Verification complete hone ke baad reports available hoti hain.
+
+---
+
+# 15.6 Performance Report
+
+Performance Report sabse important report hai.
+
+Ye metrics show karti hai:
+
+* Clicks
+* Impressions
+* CTR (Click-Through Rate)
+* Average Position
+
+Example:
+
+| Metric      | Meaning                                          |
+| ----------- | ------------------------------------------------ |
+| Clicks      | Kitne users ne click kiya                        |
+| Impressions | Kitni baar page search results me dikha          |
+| CTR         | Impression ke comparison me clicks ka percentage |
+| Position    | Average Google ranking position                  |
+
+---
+
+# 15.7 URL Inspection Tool
+
+Is tool se check kar sakte hain:
+
+* Page indexed hai ya nahi.
+* Last crawl kab hua.
+* Mobile-friendly hai ya nahi.
+* Live Test pass karta hai ya nahi.
+
+Agar page index nahi hua ho to indexing request bhej sakte hain.
+
+---
+
+# 15.8 Indexing Report
+
+Ye report batati hai:
+
+* Indexed Pages
+* Non-Indexed Pages
+* Crawl Errors
+* Excluded Pages
+
+Goal:
+
+Maximum important pages index hone chahiye.
+
+---
+
+# 15.9 XML Sitemap Submission
+
+Google ko sitemap submit karne se crawling aur indexing improve ho sakti hai.
+
+Example:
+
+```text id="m8w5tk"
+https://www.safeprofire.com/sitemap.xml
+```
+
+Submit karne ke baad status monitor karte raho.
+
+---
+
+# 15.10 Page Experience
+
+Google website ke page experience ko evaluate karta hai.
+
+Important Factors:
+
+* Core Web Vitals
+* Mobile Friendliness
+* HTTPS
+* Safe Browsing
+
+Good Page Experience better user satisfaction me help karta hai.
+
+---
+
+# 15.11 Core Web Vitals Report
+
+Ye report batati hai ki pages:
+
+* Good
+* Needs Improvement
+* Poor
+
+kis category me hain.
+
+Metrics:
+
+* LCP
+* INP
+* CLS
+
+Poor pages ko priority se optimize karo.
+
+---
+
+# 15.12 Links Report
+
+GSC backlinks aur internal links ki information provide karta hai.
+
+Reports:
+
+* External Links
+* Internal Links
+* Top Linking Sites
+* Top Linked Pages
+
+Ye link profile analyze karne me help karta hai.
+
+---
+
+# 15.13 Manual Actions
+
+Agar Google website par spam ya policy violation detect kare to Manual Action de sakta hai.
+
+Common Reasons:
+
+* Spam Content
+* Unnatural Backlinks
+* Cloaking
+* Hidden Text
+
+Manual Actions ko jaldi resolve karna chahiye.
+
+---
+
+# 15.14 Security Issues
+
+Google security-related problems bhi detect karta hai.
+
+Examples:
+
+* Malware
+* Hacked Website
+* Harmful Downloads
+
+Website secure rakhna bahut important hai.
+
+---
+
+# 15.15 SafePro GSC Strategy
+
+Weekly Checklist:
+
+* Performance Report Check
+* New Keywords Monitor
+* Sitemap Status
+* Index Coverage
+* Core Web Vitals
+* Mobile Issues
+* Crawl Errors
+* Backlink Report
+
+Monthly:
+
+* SEO Performance Review
+* Content Updates
+* Technical Audit
+
+---
+
+# 15.16 Common Google Search Console Mistakes
+
+❌ Sitemap Submit Na Karna
+
+❌ Crawl Errors Ignore Karna
+
+❌ Manual Actions Ignore Karna
+
+❌ Index Coverage Check Na Karna
+
+❌ Performance Data Analyze Na Karna
+
+---
+
+# 15.17 Best Practices
+
+✅ Submit XML Sitemap
+
+✅ Monitor Performance Weekly
+
+✅ Fix Crawl Errors
+
+✅ Improve Core Web Vitals
+
+✅ Check Mobile Usability
+
+✅ Review Index Coverage
+
+✅ Analyze Top Queries
+
+---
+
+# Chapter Summary
+
+Is chapter me humne seekha:
+
+* Google Search Console kya hai.
+* Property Types.
+* Website Verification.
+* Performance Report.
+* URL Inspection.
+* Indexing Report.
+* Sitemap Submission.
+* Core Web Vitals.
+* Links Report.
+* Manual Actions.
+* SafePro GSC Strategy.
+
+---
+
+# Practice Questions
+
+### Basic
+
+1. Google Search Console kya hai?
+
+2. Performance Report me kaun-kaun se metrics hote hain?
+
+3. URL Inspection Tool ka use kya hai?
+
+---
+
+### Intermediate
+
+4. Domain Property aur URL Prefix Property me difference batao.
+
+5. XML Sitemap submit karna kyun important hai?
+
+6. Manual Action kya hota hai?
+
+---
+
+### Advanced
+
+7. SafePro Fire Services ke liye weekly GSC monitoring plan banao.
+
+8. Index Coverage report ko kaise analyze karoge?
+
+9. Performance Report ke basis par SEO strategy kaise improve karoge?
+
+10. Core Web Vitals report ka practical use explain karo.
+
+---
+
+# Chapter Checklist
+
+✅ Google Search Console ka concept clear hai.
+
+✅ Website verify karna samajh liya.
+
+✅ Performance Report samajh li.
+
+✅ URL Inspection Tool clear hai.
+
+✅ Sitemap submit karna aata hai.
+
+✅ SafePro ke liye GSC monitoring strategy ready hai.
+
+---
+
+# Key Takeaways
+
+* Google Search Console har SEO professional ke liye essential tool hai.
+* Regular monitoring se indexing aur ranking issues jaldi identify kiye ja sakte hain.
+* Performance Report real keyword aur traffic insights provide karti hai.
+* XML Sitemap aur URL Inspection better crawling me help karte hain.
+* Weekly GSC review ek healthy SEO workflow ka important part hai.

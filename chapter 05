@@ -1,0 +1,492 @@
+# 📖 Chapter 05 – URL Structure
+
+---
+
+# 🎯 Chapter Objective
+
+Is chapter me hum URL Structure ko detail me samjhenge. Aap seekhenge ki SEO-friendly URL kya hota hai, Google URLs ko kaise read karta hai, ek perfect URL kaise design kiya jata hai aur kaun si common mistakes avoid karni chahiye.
+
+---
+
+# 5.1 What is a URL?
+
+**URL (Uniform Resource Locator)** internet par kisi webpage ka unique address hota hai.
+
+Simple Words:
+
+> **URL = Website ke kisi page ka address.**
+
+Example:
+
+```text
+https://www.safeprofire.com/fire-extinguisher-mumbai
+```
+
+Is URL ko dekhkar hi Google aur user dono samajh sakte hain ki page kis topic ke baare me hai.
+
+---
+
+# 5.2 Why is URL Structure Important?
+
+Ek clean aur descriptive URL Google aur users dono ke liye helpful hota hai.
+
+### Benefits
+
+* Better SEO
+* Easy Crawling
+* Better User Experience
+* Higher Click-Through Rate (CTR)
+* Easy Sharing
+* Better Website Organization
+
+---
+
+# 5.3 Parts of a URL
+
+Example:
+
+```text
+https://www.safeprofire.com/products/fire-extinguisher-mumbai
+```
+
+Breakdown:
+
+```text
+https://        → Protocol
+
+www.safeprofire.com → Domain Name
+
+/products/     → Folder
+
+fire-extinguisher-mumbai → Slug
+```
+
+---
+
+# 5.4 SEO-Friendly URL
+
+Good URL:
+
+```text
+https://www.safeprofire.com/fire-extinguisher-mumbai
+```
+
+Bad URL:
+
+```text
+https://www.safeprofire.com/page?id=45879
+```
+
+Google descriptive URLs ko zyada easily understand karta hai.
+
+---
+
+# 5.5 Characteristics of a Good URL
+
+Ek SEO-friendly URL me ye qualities honi chahiye:
+
+* Short
+* Readable
+* Meaningful
+* Keyword Included
+* Lowercase Letters
+* Hyphens (-) Instead of Underscores (_)
+* No Special Characters
+* No Random Numbers
+
+---
+
+# 5.6 URL Best Practices
+
+## 1. Use Primary Keyword
+
+Example:
+
+```text
+fire-extinguisher-mumbai
+```
+
+---
+
+## 2. Keep URL Short
+
+Good:
+
+```text
+example.com/fire-alarm
+```
+
+Bad:
+
+```text
+example.com/best-fire-alarm-system-installation-company-in-mumbai
+```
+
+---
+
+## 3. Use Hyphens
+
+Good:
+
+```text
+fire-extinguisher-mumbai
+```
+
+Bad:
+
+```text
+fire_extinguisher_mumbai
+```
+
+---
+
+## 4. Use Lowercase Letters
+
+Good:
+
+```text
+fire-extinguisher
+```
+
+Bad:
+
+```text
+FireExtinguisher
+```
+
+---
+
+## 5. Avoid Special Characters
+
+Bad:
+
+```text
+page@123
+```
+
+Good:
+
+```text
+fire-safety-guide
+```
+
+---
+
+# 5.7 Static vs Dynamic URLs
+
+## Static URL
+
+```text
+example.com/fire-hydrant
+```
+
+Advantages:
+
+* SEO Friendly
+* Easy to Read
+* Better User Experience
+
+---
+
+## Dynamic URL
+
+```text
+example.com/product?id=245
+```
+
+Disadvantages:
+
+* Difficult to Read
+* Less SEO Friendly
+
+---
+
+# 5.8 URL Hierarchy
+
+Google website hierarchy ko URLs se bhi samajhta hai.
+
+Example:
+
+```text
+Home
+
+↓
+
+Products
+
+↓
+
+Fire Extinguisher
+
+↓
+
+ABC Fire Extinguisher
+```
+
+URL:
+
+```text
+/products/fire-extinguisher/abc-fire-extinguisher
+```
+
+---
+
+# 5.9 Category URLs
+
+Example:
+
+```text
+/products/
+
+/services/
+
+/blog/
+
+/industries/
+```
+
+Ye Google ko website organize karne me help karte hain.
+
+---
+
+# 5.10 Product URLs
+
+Examples:
+
+```text
+/products/abc-fire-extinguisher
+
+/products/co2-fire-extinguisher
+
+/products/fire-hose
+
+/products/fire-alarm
+```
+
+---
+
+# 5.11 Service URLs
+
+Examples:
+
+```text
+/services/fire-extinguisher-refilling
+
+/services/fire-audit
+
+/services/fire-alarm-installation
+
+/services/fire-noc-consultancy
+```
+
+---
+
+# 5.12 Blog URLs
+
+Examples:
+
+```text
+/blog/how-to-use-fire-extinguisher
+
+/blog/fire-safety-tips
+
+/blog/abc-vs-co2-fire-extinguisher
+```
+
+---
+
+# 5.13 Local SEO URLs
+
+Location pages ke liye unique URLs banao.
+
+Examples:
+
+```text
+/fire-extinguisher-mumbai
+
+/fire-extinguisher-virar
+
+/fire-extinguisher-vasai
+
+/fire-extinguisher-thane
+```
+
+Har city ka alag page hona chahiye.
+
+---
+
+# 5.14 SafePro URL Strategy
+
+Homepage
+
+```text
+/
+```
+
+Products
+
+```text
+/products/
+```
+
+Services
+
+```text
+/services/
+```
+
+Blogs
+
+```text
+/blog/
+```
+
+Industries
+
+```text
+/industries/
+```
+
+Contact
+
+```text
+/contact
+```
+
+Example Product URL
+
+```text
+https://www.safeprofire.com/products/co2-fire-extinguisher
+```
+
+---
+
+# 5.15 URL Mistakes to Avoid
+
+❌ Long URLs
+
+❌ Random Numbers
+
+❌ Uppercase Letters
+
+❌ Special Characters
+
+❌ Multiple Keywords in One URL
+
+❌ Frequent URL Changes
+
+❌ Duplicate URLs
+
+---
+
+# 5.16 URL Redirection (301 Redirect)
+
+Agar URL change karna zaruri ho to **301 Redirect** use karo.
+
+Example:
+
+Old URL
+
+```text
+example.com/fire
+```
+
+↓
+
+New URL
+
+```text
+example.com/fire-extinguisher
+```
+
+301 Redirect ensure karta hai ki users aur search engines automatically new page par chale jayein aur SEO value preserve ho.
+
+---
+
+# 5.17 Canonical URL
+
+Kabhi-kabhi ek hi content multiple URLs par available hota hai.
+
+Canonical URL Google ko batata hai ki original page kaunsa hai.
+
+Example:
+
+```text
+https://www.safeprofire.com/fire-extinguisher
+```
+
+Canonical use karne se duplicate content issues kam hote hain.
+
+---
+
+# Chapter Summary
+
+Is chapter me humne seekha:
+
+* URL kya hota hai.
+* SEO-friendly URL ka importance.
+* URL ke parts.
+* Static vs Dynamic URLs.
+* URL Hierarchy.
+* Category, Product, Service aur Blog URLs.
+* Local SEO URLs.
+* 301 Redirect.
+* Canonical URLs.
+
+---
+
+# Practice Questions
+
+### Basic
+
+1. URL kya hota hai?
+
+2. SEO-friendly URL kise kehte hain?
+
+3. Static aur Dynamic URL me difference batao.
+
+---
+
+### Intermediate
+
+4. Hyphens URLs me kyun use kiye jate hain?
+
+5. 301 Redirect kya hota hai?
+
+6. Canonical URL kya hota hai?
+
+---
+
+### Advanced
+
+7. SafePro Fire Services ke liye complete URL Structure design karo.
+
+8. Product aur Service URLs ke examples likho.
+
+9. Local SEO ke liye URL strategy banao.
+
+10. URL optimization ke 10 best practices explain karo.
+
+---
+
+# Chapter Checklist
+
+✅ URL ka concept clear hai.
+
+✅ SEO-friendly URL banana aata hai.
+
+✅ URL hierarchy samajh li.
+
+✅ Static vs Dynamic URLs ka difference clear hai.
+
+✅ 301 Redirect aur Canonical URL samajh liya.
+
+---
+
+# Key Takeaways
+
+* URL website ka digital address hota hai.
+* Short, descriptive aur keyword-rich URLs SEO ke liye better hote hain.
+* URL structure website architecture ka important part hai.
+* 301 Redirect aur Canonical URL technical SEO me bahut important hote hain.
+* Ek clean URL user trust aur search engine understanding dono improve karta hai.
